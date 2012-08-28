@@ -4,7 +4,7 @@ class HelloWorld {
 	public static void main(String args[]){
 		System.out.println("Hello World!");
 		for( int idx = 1 ; idx <= MAX_HELLO ; idx++ ){
-			System.out.println("Hello " + idx);
+			System.out.println("Hello World" + idx);
 		}
 	}
 }
